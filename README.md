@@ -7,7 +7,8 @@
 💞️ **Projects & Collaborations:**  
 - **Mood Swinger:** A mood-enhancing application utilizing MIT App Inventor.
 - **Pokemon Battle Simulator:** A program simulating Pokemon battles using Python.
-- **3D Printed iPhone-11 Case:** Conceptualized and created using Auto-desk Fusion 360.  
+- **3D Printed iPhone-11 Case:** Conceptualized and created using Auto-desk Fusion 360.
+   
 💼 **Professional Experience:** Working as a Student Web Developer at the TS Web Development Team, MSU and previously served as a Student Library Assistant at the Troy Public Library.  
 🤝 **Looking to Collaborate On:** Web development projects, Python-based applications, 3D modeling tasks, and any innovative tech projects.  
 📫 **How to Reach Me:** Email me at gguksrhea@gmail.com or connect with me on [LinkedIn](#).
