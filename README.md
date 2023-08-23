@@ -1,7 +1,7 @@
 
 
 👋 Hi, I’m @jinkkus (Rhea Maheshkumar)  
-🎓 **Education:** Pursuing a B.Eng. in Computer Science at Michigan State University, expected graduation in May 2025.  
+🎓 **Education:** Pursuing a B.Eng. in Computer Science at Michigan State University
 👀 **Interests:** Music, Video Gaming, Swimming, Tennis  
 🌱 **Currently Learning:** Advanced concepts in Data Structures, Systems Programming, and Functional Programming. Deepening expertise in Java, Python, C++, R, SQL, HTML, JavaScript, CSS, and PHP.  
 💞️ **Projects & Collaborations:**  
@@ -14,7 +14,6 @@
 
 ---
 
-You can further edit or customize the details based on your preferences and what you'd like to showcase on your GitHub profile!
 
 <!---
 jinkkus/jinkkus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
